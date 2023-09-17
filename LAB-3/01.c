@@ -55,7 +55,7 @@ void transpose_sparse_matrix(int sm[][3])
 {
 
     int n = sm[0][2], temp, row, col, count = 1;
-    int tm[n][3];
+    int tm[n+1][3];
 
     row = sm[0][0];
     col = sm[0][1];

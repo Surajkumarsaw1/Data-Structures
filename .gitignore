@@ -1,0 +1,13 @@
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+.vscode
+*.exe
+*.out
+config.json
+venv/
+classes/
+output/
