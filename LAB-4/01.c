@@ -31,7 +31,7 @@ int main()
 
     while (1)
     {
-        printf("1. Create a Sinlgle Linked List.\n");
+        printf("1. Create a Single Linked List.\n");
         printf("2. Display the list\n");
         printf("3. Add/Insert a node\n"); // first, last, specified
         printf("4. Delete a node\n");     // first, last, specified
@@ -179,7 +179,7 @@ void traverseSLL(node *start)
     }
     else
     {
-        printf("\nListing ....\n");
+        printf("\nLinklist Elements : \n");
         temp = start;
         printf("Start -> ");
         do

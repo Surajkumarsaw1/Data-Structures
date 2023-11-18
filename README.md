@@ -22,34 +22,33 @@ Each week, you'll explore a new realm of knowledge. Let's unveil the magical exp
 
 ### 🌟 **Week 1: Lab 1 (Introduction)**
 
-- [ ] **1.1:** Write a program to store student information and display it using structures and pointers.
-- [ ] **1.2:** Craft a program to store book data using dynamic memory allocation and conjure books by a particular author.
-- [ ] **1.3:** Write an incantation to calculate the length of a string using a pointer.
-- [ ] **1.4:** Perform a spell to find the smallest and largest elements in an array using dynamic memory allocation.
-- [ ] **1.5:** Create a potion to search for an element in an array using pointers and dynamic memory allocation.
+- [X] **1.1:** Write a program to store student information and display it using structures and pointers.
+- [X] **1.2:** Craft a program to store book data using dynamic memory allocation and conjure books by a particular author.
+- [X] **1.3:** Write an incantation to calculate the length of a string using a pointer.
+- [X] **1.4:** Perform a spell to find the smallest and largest elements in an array using dynamic memory allocation.
+- [X] **1.5:** Create a potion to search for an element in an array using pointers and dynamic memory allocation.
 
 ### 🌌 **Week 2: Lab 2 (Array)**
 
-- [ ] **2.1:** Cast a spell to reverse the contents of a dynamic array.
-- [ ] **2.2:** Brew a potion to remove duplicate elements from an array.
-- [ ] **2.3:** Write a menu-driven program for array operations: traversal, insertion, deletion, and merging.
-- [ ] **2.4:** Weave magic to perform operations on an nXn matrix: count non-zero elements, row-wise and column-wise sums and averages.
+- [X] **2.1:** Cast a spell to reverse the contents of a dynamic array.
+- [X] **2.2:** Brew a potion to remove duplicate elements from an array.
+- [X] **2.3:** Write a menu-driven program for array operations: traversal, insertion, deletion, and merging.
+- [X] **2.4:** Weave magic to perform operations on an nXn matrix: count non-zero elements, row-wise and column-wise sums and averages.
 
 ### 🪶 **Week 3: Lab 3 (Array)**
 
-- [ ] **3.1:** Weave a tapestry to perform the transpose of a sparse matrix in 3-tuple format.
-- [ ] **3.2:** Conjure a fusion of two sparse matrices in 3-tuple format.
-- [ ] **3.3:** Create a charm to represent and add two polynomial equations using 1-D arrays.
+- [X] **3.1:** Weave a tapestry to perform the transpose of a sparse matrix in 3-tuple format.
+- [X] **3.2:** Conjure a fusion of two sparse matrices in 3-tuple format.
+- [X] **3.3:** Create a charm to represent and add two polynomial equations using 1-D arrays.
 
 ### 🧙‍♂️ **Week 4: Lab 4 (Linked List)**
 
-- [ ] **4.1:** Enter the realm of linked lists with a menu-driven program for various operations.
-- [ ] **4.2:** Dive deeper with double linked list operations.
-- [ ] **4.3:** Create a potion to represent a polynomial equation using a single linked list and perform addition of two polynomial equations.
+- [X] **4.1:** Enter the realm of linked lists with a menu-driven program for various operations.
+- [X] **4.2:** Dive deeper with double linked list operations.
 
 ### 🌲 **Week 5: Lab 5 (Linked List)**
 
-- [ ] **5.1:** Concoct a spell to represent a polynomial equation using a single linked list and perform addition of two polynomial equations.
+- [X] **5.1:** Concoct a spell to represent a polynomial equation using a single linked list and perform addition of two polynomial equations.
 - [ ] **5.2:** Visualize the magic of representing a sparse matrix using a header single linked list and display it.
 
 ### 🧞‍♂️ **Week 6: Lab 6 (Stack)**
