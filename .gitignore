@@ -11,3 +11,5 @@ config.json
 venv/
 classes/
 output/
+temp*
+SESSIONAL/
