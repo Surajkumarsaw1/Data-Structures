@@ -68,7 +68,7 @@ void push(Node *value)
     {
         top++;
         stack[top] = value;
-        printf("\tPushed: %d\n", value->data);
+        printf("\n\tPushed: %d\n", value->data);
     }
 }
 
@@ -124,7 +124,7 @@ int isEmpty()
 
 void traveseStack()
 {
-    printf("\n-: Top : ");
+    printf("\t-: Top : ");
     if (top < 0)
     {
         return;
@@ -168,7 +168,7 @@ void preOrderTraversal(Node *root)
         traveseStack();
 
         curr = pop();
-        printf("Popped: %d", curr->data);
+        printf("Popped: %d\n", curr->data);
         if (curr->right != NULL)
         {
             push(curr->right);
@@ -179,7 +179,7 @@ void preOrderTraversal(Node *root)
             push(curr->left);
         }
 
-        traveseStack();
+        // traveseStack();
         printf("\n");
     }
 }
@@ -203,7 +203,7 @@ void inOrderTraversal(Node *root)
         }
 
         curr = pop();
-        printf("Popped: %d ", curr->data);
+        printf("Popped: %d\n", curr->data);
 
         curr = curr->right;
 
@@ -240,11 +240,9 @@ void postOrderTraversal(Node *root)
         {
             // Visit the node since both left and right subtrees have been visited or empty
             curr = pop();
-            printf("Popped: %d ", curr->data);
+            printf("Popped: %d\n", curr->data);
             lastVisited = curr; // Mark the node as visited
             curr = NULL;        // Reset curr to NULL to avoid pushing it back
         }
-        // traverseStack();
-        printf("\n");
     }
 }
